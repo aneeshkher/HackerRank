@@ -1,0 +1,1 @@
+Hacker Rank -> Algorithms -> Implementation -> The time in words

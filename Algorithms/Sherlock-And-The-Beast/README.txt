@@ -1,0 +1,1 @@
+Hacker Rank -> Algorithms -> Implementation -> Sherlock and the Beast

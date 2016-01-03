@@ -1,1 +1,0 @@
-Hacker Rank -> Algorithms -> Warm up -> Sherlock and the Beast
