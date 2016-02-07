@@ -1,1 +1,1 @@
-##### Problem link: <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler009" target="_blank">https://www.hackerrank.com/contests/projecteuler/challenges/euler009</a>
+##### <a href="https://www.hackerrank.com/contests/projecteuler/challenges/euler009" target="_blank">Problem link</a>
